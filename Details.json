@@ -1,0 +1,55 @@
+{
+  "Harry": {
+    "name": "Harry Potter",
+    "occupation": "Wizard",
+    "house": "Gryffindor",
+    "skills": "Defense Against the Dark Arts, Leadership, Flying",
+    "wand": "Holly, Phoenix Feather",
+    "status": "Verified Wizard"
+  },
+
+  "Hermione": {
+    "name": "Hermione Granger",
+    "occupation": "Witch",
+    "house": "Gryffindor",
+    "skills": "Spell Casting, Intelligence, Research",
+    "wand": "Vine Wood, Dragon Heartstring",
+    "status": "Verified Wizard"
+  },
+
+  "Ron": {
+    "name": "Ron Weasley",
+    "occupation": "Wizard",
+    "house": "Gryffindor",
+    "skills": "Chess Strategy, Loyalty, Teamwork",
+    "wand": "Willow, Unicorn Hair",
+    "status": "Verified Wizard"
+  },
+
+  "Draco": {
+    "name": "Draco Malfoy",
+    "occupation": "Wizard",
+    "house": "Slytherin",
+    "skills": "Dark Arts, Strategy, Duel Combat",
+    "wand": "Hawthorn, Unicorn Hair",
+    "status": "Verified Wizard"
+  },
+
+  "Luna": {
+    "name": "Luna Lovegood",
+    "occupation": "Witch",
+    "house": "Ravenclaw",
+    "skills": "Creativity, Magical Creatures, Observation",
+    "wand": "Unknown",
+    "status": "Verified Wizard"
+  },
+
+  "Albus": {
+    "name": "Albus Dumbledore",
+    "occupation": "Headmaster",
+    "house": "Gryffindor",
+    "skills": "Advanced Magic, Wisdom, Leadership",
+    "wand": "Elder Wand",
+    "status": "Verified Wizard"
+  }
+}
