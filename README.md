@@ -60,3 +60,12 @@ Through this project, I explored:
 - OpenCV Optimization
 - Human-Computer Interaction
 - Intelligent UI Design
+
+👨‍💻 Author
+Nishant Singh
+
+📧 Email: ns1199816@gmail.com
+
+🔗 GitHub: https://github.com/nishant1199816
+
+🔗 LinkedIn: https://www.linkedin.com/in/nishant-singh-tech/ 
